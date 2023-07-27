@@ -1,2 +1,2 @@
 # odin-recipes
-Delicious recipies for you to try out!
+Delicious recipes for you to try out!
