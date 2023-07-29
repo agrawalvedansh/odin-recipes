@@ -4,15 +4,13 @@ body {
 }
 
 header {
+    background-color: white;
     text-align: center;
     font-size: 30px;
     margin-top: -40px;
     position: sticky;
     top: 0; /*required for position: sticky to work*/
-    background-image: url(./images/heading.jpg);
-    color: transparent;
-    background-clip: text;
-    -webkit-background-clip: text;
+    color: black;
     box-shadow: 0 -6px 10px 5px rgba(0,0,0,0.5);
 }
 
